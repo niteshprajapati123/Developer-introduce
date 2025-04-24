@@ -98,3 +98,32 @@ footer{
     margin-top: 200px;
     margin-left: 250px;
 }
+
+@media only screen and (max-width: 600px) {
+    .About_div{
+        width: auto;
+        height: auto;
+    }
+    #images{
+        margin: 58px 60px;
+    }
+    #introduction{
+        margin: 87% 5px 0px 5px;
+        padding: 0;
+        width: 100%;
+    }
+    footer{
+        margin-top: 10px;
+        width: 100%;
+    }
+    #developer{
+        margin: 6px 0 0 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    #social_link{
+        margin-top: 15px;
+        width: 95%;
+    }
+}
