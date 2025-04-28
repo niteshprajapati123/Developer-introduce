@@ -106,16 +106,18 @@ footer{
         height: 750px;
     }
     #About_deve {
-        margin-top: 6%; 
+        margin-top: 5%; 
         padding: 0px;
         text-align: center;
         font-weight: bold;
         font-family: sans-serif;
     }
-    #images{
+    #images {
         margin: 57px;
-        width: 55%;
-        height: 32%;
+        width: 52%;
+        height: 30%;
+    }
+
     }
     #introduction{
         margin: 80% 5px 0px 5px;
@@ -156,4 +158,3 @@ footer{
         padding: 5px;
         padding-left: 20px;
     }
-}
